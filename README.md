@@ -1,6 +1,6 @@
 # Project Title
 
-<h2>Role Playing Game</h2>
+<h2>Calorie Counter</h2>
 
 # What I learned
 
